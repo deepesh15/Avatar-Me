@@ -6,7 +6,7 @@ This was proposed as a fun exercise at the end of @GoBootcamp
 
 Try `go build` in the AvatarMe directory , then to create the avatar use `./avatar <your word> <size> <output filename>`
 
-### That's how my algorithm represents 'golang'
+### Just an Example string provided as input
 ![alt text](test.png)
 
 
